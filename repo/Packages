@@ -1,0 +1,80 @@
+Package: com.sky1738.disableytlongpress2x
+Version: 0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Sky1738
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.disableytlongpress2x_0.1-1+debug_iphoneos-arm64e.deb
+Size: 3420
+MD5sum: 8b5f97dddf926687582af4c3a22ec281
+SHA1: 7c788c5ef3149f865fb73f8d7200787387f6c3ba
+SHA256: ce03d78832f8f442d69b5e3a8d7d60ecdf652d9c13e422b020902c3cc69740fa
+Section: Tweaks
+Description: Disable LongPress 2x Speed in YouTube's Video!
+Author: Sky1738
+Name: DisableYTlongpress2x
+
+Package: com.sky1738.disableytlongpress2x
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Sky1738
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.disableytlongpress2x_0.1-1+debug_iphoneos-arm.deb
+Size: 3116
+MD5sum: 7aacfba4d3497f548e19830291ed6299
+SHA1: 7d5b0ebbd6916a30b9e1de7aba12fcf6fb489e4b
+SHA256: c6b8e53030152bd53ae262444a947cdaf199f8bfe377d29b1c639cd709b228c2
+Section: Tweaks
+Description: Disable LongPress 2x Speed in YouTube's Video!
+Author: Sky1738
+Name: DisableYTlongpress2x
+
+Package: com.sky1738.disableytvideozoom
+Version: 0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Sky1738
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.disableytvideozoom_0.1-2+debug_iphoneos-arm.deb
+Size: 3022
+MD5sum: e09301b0de598929f92413aaa0f3adee
+SHA1: c53ad0ae1f654cef6015e15fe1c35bce7123e390
+SHA256: 0f3066d6f9a70845966f11783feed755aab13cbabd6e8ee92e7ceb614f7e46ff
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sky1738
+Name: DisableYTVideoZoom
+
+Package: com.sky1738.extrasettingforyt
+Version: 5.2.1~beta-4+debug
+Architecture: iphoneos-arm64e
+Maintainer: Sky1738
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.sky1738.extrasettingforyt_5.2.1~beta-4+debug_iphoneos-arm64e.deb
+Size: 40654
+MD5sum: b667b7416b141d0755f66601aeca2078
+SHA1: d5db50e6a99fd1a20b03d4d096fa34658df0a4e0
+SHA256: 6c8b22219f1f858a21610ebf695aef9773b81d32513b39835d7ac15320bad180
+Section: Tweaks
+Description: this Tweak for iOS YT's app in setting
+Author: Sky1738
+Name: ExtraSettingsForYT
+
+Package: com.sky1738.extrasettingforyt
+Version: 5.2.1~beta-4+debug
+Architecture: iphoneos-arm
+Maintainer: Sky1738
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./debs/com.sky1738.extrasettingforyt_5.2.1~beta-4+debug_iphoneos-arm.deb
+Size: 33408
+MD5sum: 08309e442db7facb245f2e9859afd60e
+SHA1: b1cb9ee8de43c9b78c72a222afb08f55a8e3d469
+SHA256: 207cc43e3c0d6c886fd5a33204a5828ca9814190a88db88e3532a0d36ed2527d
+Section: Tweaks
+Description: this Tweak for iOS YT's app in setting
+Author: Sky1738
+Name: ExtraSettingsForYT
+
