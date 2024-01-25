@@ -1,4 +1,6 @@
-rm -rf Packages*
+# rm -rf Packages*
 dpkg-scanpackages -m ./debs > Packages
-bzip2 Packages
-echo "アップデートが完了しました"
+bzip2 -c Packages > Packages.bz2
+gzip -c Packages > Packages.gz
+
+echo "Update is complete!"
