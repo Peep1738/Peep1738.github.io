@@ -46,35 +46,35 @@ Description: An awesome MobileSubstrate tweak!
 Author: Sky1738
 Name: DisableYTVideoZoom
 
-Package: com.sky1738.extrasettingforyt
-Version: 5.2.1~beta-4+debug
+Package: com.sky1738.extraforyt
+Version: 2.5~beta
 Architecture: iphoneos-arm64e
 Maintainer: Sky1738
-Installed-Size: 364
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs/com.sky1738.extrasettingforyt_5.2.1~beta-4+debug_iphoneos-arm64e.deb
-Size: 40654
-MD5sum: b667b7416b141d0755f66601aeca2078
-SHA1: d5db50e6a99fd1a20b03d4d096fa34658df0a4e0
-SHA256: 6c8b22219f1f858a21610ebf695aef9773b81d32513b39835d7ac15320bad180
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.5~beta_iphoneos-arm64e.deb
+Size: 23120
+MD5sum: 2e068c78d263655018fa85c289ecb71d
+SHA1: 65544e6eb0e805d277f538dfbbc6ca835717ca4b
+SHA256: 703a7f2f176abb3d9d31b0d9b340494fe2cb4012840c1c61c4e2a7601681c96a
 Section: Tweaks
-Description: this Tweak for iOS YT's app in setting
+Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
-Name: ExtraSettingsForYT
+Name: ExtraForYT
 
-Package: com.sky1738.extrasettingforyt
-Version: 5.2.1~beta-4+debug
+Package: com.sky1738.extraforyt
+Version: 2.5~beta
 Architecture: iphoneos-arm
 Maintainer: Sky1738
-Installed-Size: 364
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
-Filename: ./debs/com.sky1738.extrasettingforyt_5.2.1~beta-4+debug_iphoneos-arm.deb
-Size: 33408
-MD5sum: 08309e442db7facb245f2e9859afd60e
-SHA1: b1cb9ee8de43c9b78c72a222afb08f55a8e3d469
-SHA256: 207cc43e3c0d6c886fd5a33204a5828ca9814190a88db88e3532a0d36ed2527d
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.5~beta_iphoneos-arm.deb
+Size: 18474
+MD5sum: 8a18d5b6d0c5f140e2401e8a345c6096
+SHA1: 6aa5e508328fba7d91f87c9a2e72e8a2e045a9ad
+SHA256: 71ad5bf69f77dedb845f7497699c49b84c21a86f8efba5d54ea7daf0219635dd
 Section: Tweaks
-Description: this Tweak for iOS YT's app in setting
+Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
-Name: ExtraSettingsForYT
+Name: ExtraForYT
 
