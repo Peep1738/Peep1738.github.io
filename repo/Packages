@@ -31,16 +31,49 @@ Author: Sky1738
 Name: DisableYTlongpress2x
 
 Package: com.sky1738.disableytvideozoom
-Version: 0.1-2+debug
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Sky1738
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.disableytvideozoom_0.1_iphoneos-arm64.deb
+Size: 2754
+MD5sum: fe127daa19dbed8e5c2f6baeda841fbc
+SHA1: 8f10bda2980137518b6f5c558977e17c1a9ecd88
+SHA256: 50a4edc2e2dee4351d67ab933a9d4f20f201b67d6d251afdc1af68636c2fc3b0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sky1738
+Name: DisableYTVideoZoom
+
+Package: com.sky1738.disableytvideozoom
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: Sky1738
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.disableytvideozoom_0.1_iphoneos-arm64e.deb
+Size: 4336
+MD5sum: afc64e08134090e72eafaad2e5e89833
+SHA1: 235d90d6e8dc4112a194c61169b84d8f929bf693
+SHA256: bd74c326dc8a1b46bad0f74511b7a79c4dc3ae199a48c932c16ac5390141227b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Sky1738
+Name: DisableYTVideoZoom
+
+Package: com.sky1738.disableytvideozoom
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Sky1738
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sky1738.disableytvideozoom_0.1-2+debug_iphoneos-arm.deb
-Size: 3022
-MD5sum: e09301b0de598929f92413aaa0f3adee
-SHA1: c53ad0ae1f654cef6015e15fe1c35bce7123e390
-SHA256: 0f3066d6f9a70845966f11783feed755aab13cbabd6e8ee92e7ceb614f7e46ff
+Filename: ./debs/com.sky1738.disableytvideozoom_0.1_iphoneos-arm.deb
+Size: 2692
+MD5sum: 7f34babae64a22650f8d1497b9ad71b6
+SHA1: b5f2ca466dba9c9d68b86cbfd4b2d7666a12bc8e
+SHA256: 987e8547e6d0d858c523879f0fa8bdfa5b5995b2e9113982c39ffee88c57b487
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Sky1738
