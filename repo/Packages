@@ -1,21 +1,5 @@
 Package: com.sky1738.disableytlongpress2x
 Version: 0.1-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: Sky1738
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sky1738.disableytlongpress2x_0.1-1+debug_iphoneos-arm64e.deb
-Size: 3420
-MD5sum: 8b5f97dddf926687582af4c3a22ec281
-SHA1: 7c788c5ef3149f865fb73f8d7200787387f6c3ba
-SHA256: ce03d78832f8f442d69b5e3a8d7d60ecdf652d9c13e422b020902c3cc69740fa
-Section: Tweaks
-Description: Disable LongPress 2x Speed in YouTube's Video!
-Author: Sky1738
-Name: DisableYTlongpress2x
-
-Package: com.sky1738.disableytlongpress2x
-Version: 0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: Sky1738
 Installed-Size: 168
@@ -81,22 +65,6 @@ Name: DisableYTVideoZoom
 
 Package: com.sky1738.extraforyt
 Version: 2.5~beta
-Architecture: iphoneos-arm64e
-Maintainer: Sky1738
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.sky1738.extraforyt_2.5~beta_iphoneos-arm64e.deb
-Size: 23120
-MD5sum: 2e068c78d263655018fa85c289ecb71d
-SHA1: 65544e6eb0e805d277f538dfbbc6ca835717ca4b
-SHA256: 703a7f2f176abb3d9d31b0d9b340494fe2cb4012840c1c61c4e2a7601681c96a
-Section: Tweaks
-Description: this Tweak for iOS new YouTube's app in setting
-Author: Sky1738
-Name: ExtraForYT
-
-Package: com.sky1738.extraforyt
-Version: 2.5~beta
 Architecture: iphoneos-arm
 Maintainer: Sky1738
 Installed-Size: 204
@@ -106,6 +74,55 @@ Size: 18474
 MD5sum: 8a18d5b6d0c5f140e2401e8a345c6096
 SHA1: 6aa5e508328fba7d91f87c9a2e72e8a2e045a9ad
 SHA256: 71ad5bf69f77dedb845f7497699c49b84c21a86f8efba5d54ea7daf0219635dd
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
+Package: com.sky1738.extraforyt
+Version: 2.6~beta
+Architecture: iphoneos-arm
+Maintainer: Sky1738
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6~beta_iphoneos-arm.deb
+Size: 20882
+MD5sum: 2bbbeaacaded1630c314da6a4f3a64b1
+SHA1: 3a20cbc9a87522d655fc5647faaeb55fb48a947f
+SHA256: 85f7640308eb40fcdc3216fec73e2401ecfe5fa67c072420492427dde64be485
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
+Package: com.sky1738.extraforyt
+Version: 2.6~beta
+Architecture: iphoneos-arm64
+Maintainer: Sky1738
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6~beta_iphoneos-arm64.deb
+Size: 20912
+MD5sum: 1669c0669605f9af62e1d9fabf789ad4
+SHA1: 6906f07166b462d5c7e66eebf478af38688836f8
+SHA256: cfaa470ad3eba33f5a69fa2a58143b48853c51d7c5fd67364f7d368cc62eb95e
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
+Package: com.sky1738.extraforyt
+Version: 2.6~beta
+Architecture: iphoneos-arm64e
+Maintainer: Sky1738
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6~beta_iphoneos-arm64e.deb
+Size: 28034
+MD5sum: 2cfb40ee7bed7512177b2a2fab4f7fcd
+SHA1: 4482fefb3f23a882ac50018b484e7c79ab14f6c7
+SHA256: 0f52ecf9bd0bc90d4116ab20f71c251c2bf177ba3bc742a516abf95d765d7ffc
 Section: Tweaks
 Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
