@@ -103,10 +103,10 @@ Maintainer: Sky1738
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm.deb
-Size: 37692
-MD5sum: d87019afce48fa771741651e27fb1811
-SHA1: 997b5a9ad47f94eaa7217b3b088a680ba961c1d3
-SHA256: 87ec50d86a7de95f014beaa9ea2f8db2e6fd75bf4a95a84ffa4e8969e63c6d79
+Size: 37710
+MD5sum: ea173bbc9b44b0cf8ac76f0de162b1b5
+SHA1: 45e1de988aa4fa1d466f9b4e3f35c4a56a01269f
+SHA256: 87540a02b3707ae242a33b6d7d115841fb0c1330d037cd9eaf76c9a4c3869413
 Section: Tweaks
 Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
@@ -119,10 +119,10 @@ Maintainer: Sky1738
 Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm64.deb
-Size: 37778
-MD5sum: 87a9d39dec59f109161df709693a59ed
-SHA1: 0d447756a8a764c6a58721cc0d6b3a28bff0763e
-SHA256: a2cf311f7c78634f174eaaea607d62385d33d80e1efe0b73538773eea0724da3
+Size: 38010
+MD5sum: 8f1c4d287e034837f633f01e6d2076d9
+SHA1: e8967740383ce9aa7261949545603e925fd59f12
+SHA256: be038d5c9636e5e4de398d29f5b1ad7e5b5c2655826cdb25ec45f99467bd237c
 Section: Tweaks
 Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
@@ -136,10 +136,10 @@ Installed-Size: 376
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm64e.deb
-Size: 48640
-MD5sum: 22be356bdeff87239a45c02e26b61330
-SHA1: 98fe525932fb3e30cd69324795e812048ea17cac
-SHA256: 462812a36e8ce422f2418e0f5d58bfcab78722b1876471c76e65fc6416bc3554
+Size: 49114
+MD5sum: 511942537396efb21e46eb94e4565655
+SHA1: 851bf8266fceab57d9bc580ca3ae558ec3c03fea
+SHA256: 871f237c23d5bab567417a7160c4ce4a4005b25c34e3e1ab80ad1f8b4d0a415a
 Section: Tweaks
 Description: this Tweak for iOS new YouTube's app in setting
 Author: Sky1738
