@@ -96,3 +96,52 @@ Description: An awesome MobileSubstrate tweak!
 Author: Sky1738
 Name: DisableYTVideoZoom
 
+Package: com.sky1738.extraforyt
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: Sky1738
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm.deb
+Size: 37710
+MD5sum: ea173bbc9b44b0cf8ac76f0de162b1b5
+SHA1: 45e1de988aa4fa1d466f9b4e3f35c4a56a01269f
+SHA256: 87540a02b3707ae242a33b6d7d115841fb0c1330d037cd9eaf76c9a4c3869413
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
+Package: com.sky1738.extraforyt
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: Sky1738
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm64.deb
+Size: 38010
+MD5sum: 8f1c4d287e034837f633f01e6d2076d9
+SHA1: e8967740383ce9aa7261949545603e925fd59f12
+SHA256: be038d5c9636e5e4de398d29f5b1ad7e5b5c2655826cdb25ec45f99467bd237c
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
+Package: com.sky1738.extraforyt
+Version: 2.6.1
+Architecture: iphoneos-arm64e
+Maintainer: Sky1738
+Installed-Size: 376
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sky1738.extraforyt_2.6.1_iphoneos-arm64e.deb
+Size: 49114
+MD5sum: 511942537396efb21e46eb94e4565655
+SHA1: 851bf8266fceab57d9bc580ca3ae558ec3c03fea
+SHA256: 871f237c23d5bab567417a7160c4ce4a4005b25c34e3e1ab80ad1f8b4d0a415a
+Section: Tweaks
+Description: this Tweak for iOS new YouTube's app in setting
+Author: Sky1738
+Name: ExtraForYT
+
